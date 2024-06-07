@@ -1,0 +1,17 @@
+{
+  "name": "lab-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab-08.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.27.0",
+    "node-fetch": "^2.7.0",
+    "save": "^2.9.0"
+  }
+}
